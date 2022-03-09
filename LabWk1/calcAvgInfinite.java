@@ -4,7 +4,7 @@ package LabWk1;
 import java.util.*;
 
 /**
-   COOSLO2-B03-TestSkill-NurAlisaZarina
+   COOSLO2-B03-TestSkill-AlisaZarina
    This program reads infinitely and calculates the average.
    //Then, it will display the user input into an array.
 */
