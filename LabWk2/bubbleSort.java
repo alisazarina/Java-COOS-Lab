@@ -9,9 +9,9 @@ import java.time.Instant;
 
 /**
    COOSLO2-B03-TestSkill-AlisaZarina
-   This program reads infinitely and calculates the average.
-   Then, it will display the user input into an array.
-   Finally, it will bubble sort the array and print the execution time of sorting.
+   This program will sort user's input numbers and store it into an unsorted array.
+   Then, it will sort the array via the bubble sort process, printing each round until the array is in ascending order.
+   Finally, it will print the execution time for sorting.
 */
 
 public class bubbleSort {  //Declare a class
