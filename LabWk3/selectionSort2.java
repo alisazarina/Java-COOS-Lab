@@ -8,7 +8,7 @@ import java.util.ArrayList;
    COOSLO2-B03-TestSkill-AlisaZarina
    This program will sort user's input numbers and store it into an unsorted array.
    Then, it will sort the array via the selection sort process, printing each round until the array is in ascending order.
-   Finally, it will print the execution time for sorting.
+   Finally, it will print the execution time for sorting. -- the selectionSort() method executed here is from lecturer/tutor's answer.
 */
 
 public class selectionSort2 {  //Declare a class
@@ -52,7 +52,7 @@ public class selectionSort2 {  //Declare a class
         	
     }
 
-   // Sort existing array via Selection Sort.    
+   // Sort existing array via Selection Sort.    -- the selectionSort() method executed here is from lecturer/tutor's answer.
     public static void selectionSort(ArrayList<Integer> arr) {
         int length = arr.size();
         int x = 0;
