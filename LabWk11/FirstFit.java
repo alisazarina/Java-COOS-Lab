@@ -2,7 +2,7 @@ package LabWk11;
 
 /**
  *
- * @author Alisa Zarina
+ * @author Alisa Zarina // something wrong with the code -- won't run + TO ADD: internalFrag
  */
 
 import java.util.*;
